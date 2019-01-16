@@ -1,0 +1,2 @@
+Software Configuration Management
+The goals of Software Configuration Management are generally Configuration, Identification, Configuration idioms and baselines, configuration control, implementing a control change process.
